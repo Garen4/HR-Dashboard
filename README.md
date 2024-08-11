@@ -1,6 +1,7 @@
 ### HR Dashboard Project
 Overview
-This project focuses on analyzing HR data to gain insights into employee attrition, job satisfaction, performance, compensation, work-life balance, and environment satisfaction. The dashboard provides a comprehensive view of the HR metrics, enabling data-driven decisions to enhance employee retention and satisfaction.
+This project focuses on analyzing HR data to gain insights into employee attrition, job satisfaction, performance, compensation, work-life balance, and environment satisfaction. 
+The dashboard provides a comprehensive view of the HR metrics, enabling data-driven decisions to enhance employee retention and satisfaction.
 
 Insights and Problem Resolution :
 1- Employee Attrition: Identified key factors contributing to employee attrition, such as job satisfaction and work-life balance.
